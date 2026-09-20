@@ -1,0 +1,24 @@
+[project]
+name = "multimedia-uv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Varasina Farmadani", email = "sina@sinanonym.my.id" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "librosa>=1.0.0",
+    "matplotlib>=3.11.2",
+    "moviepy>=2.2.1",
+    "opencv-python>=5.0.0.93",
+    "pillow>=11.3.0",
+    "umpy>=0.1.0",
+]
+
+[project.scripts]
+multimedia-uv = "multimedia_uv:main"
+
+[build-system]
+requires = ["uv_build>=0.12.12,<0.13.0"]
+build-backend = "uv_build"
