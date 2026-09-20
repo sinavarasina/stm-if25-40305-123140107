@@ -4,6 +4,7 @@
 
 **Nama:** Varasina Farmadani  
 **NIM:** 123140107  
+**Link Direktori GitHub:** https://github.com/sinavarasina/stm-if25-40305-123140107/tree/main/02_audio_noise_statis
 
 ---
 
