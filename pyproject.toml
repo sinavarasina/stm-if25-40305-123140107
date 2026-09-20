@@ -12,8 +12,10 @@ dependencies = [
     "librosa>=1.0.0",
     "matplotlib>=3.11.2",
     "moviepy>=2.2.1",
+    "numpy>=2.5.3",
     "opencv-python>=5.0.0.93",
     "pillow>=11.3.0",
+    "soundfile>=0.14.0",
     "umpy>=0.1.0",
 ]
 
