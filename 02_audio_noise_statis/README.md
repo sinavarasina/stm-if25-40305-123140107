@@ -4,7 +4,6 @@
 
 **Nama:** Varasina Farmadani  
 **NIM:** 123140107  
-**Link Direktori GitHub:** https://github.com/sinavarasina/stm-if25-40305-123140107
 
 ---
 
@@ -18,9 +17,9 @@ Kode ini co-authored by gemini, saya sebagai author memahami 100% kode yang digu
 MIC : Taffstudio BM-8000 (direct to Mic In)  
 On Board Audio : SupremeFX S1220A  
 Software Record : dengan perintah "arecord -D plughw:2,0 -c 1 -f S16_LE -r 48000 output.wav"  
-Jumlah Kipas : 2 
-Jarak Kipas : ±1 Meter
-Jarak Pembicara : ±0.5 Meter
+Jumlah Kipas : 2  
+Jarak Kipas : ±1 Meter  
+Jarak Pembicara : ±0.5 Meter  
 
 ## Audio Metadata
 Sample Rate (fs): 48000 Hz  
